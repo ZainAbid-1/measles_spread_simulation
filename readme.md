@@ -71,9 +71,3 @@ src/
     api/               # FastAPI WebSocket endpoints
   data/                # Real-world contact network datasets
 ```
-
----
-
-### 👤 Authors
-
-**Zain Abid (507257), M. Haad Rehman (501714), & M. Faiq Abdullah (510682)** — Simulation & Modeling Project
